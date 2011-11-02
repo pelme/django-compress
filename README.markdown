@@ -14,6 +14,11 @@ See http://djangopackages.com/grids/g/asset-managers/ for a fairly complete list
 
 Are you already using django-compress?
 --------------------------------------
-If you already are already using django-compress, you should have a look at upgrading to django-pipeline[1], which is a well maintained fork, with a lot of new features. I encourage everyone to who is using django-compress to switch to django-pipeline instead.
+If you already are already using django-compress, you are strongly encouraged to
+switch to django-pipeline[1], which is a well maintained fork, with a lot of new features.
 
-[1] http://django-pipeline.readthedocs.org/ django-pipeline documentation
+See django-pipelines documentation [2] for more information on the changes and features.
+
+[1] https://github.com/cyberdelia/django-pipeline
+
+[2] http://django-pipeline.readthedocs.org/ django-pipeline documentation
