@@ -21,4 +21,4 @@ See django-pipelines documentation [2] for more information on the changes and f
 
 [1] https://github.com/cyberdelia/django-pipeline
 
-[2] http://django-pipeline.readthedocs.org/ django-pipeline documentation
+[2] http://django-pipeline.readthedocs.org/
